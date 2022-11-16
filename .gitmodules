@@ -1,0 +1,36 @@
+[submodule "hardware/nvidia/platform/tegra/common"]
+	path = hardware/nvidia/platform/tegra/common
+	url = https://nv-tegra.nvidia.com/r/device/hardware/nvidia/platform/tegra/common
+	branch = l4t/l4t-r32.7.1
+[submodule "hardware/nvidia/soc/t210"]
+	path = hardware/nvidia/soc/t210
+	url = https://nv-tegra.nvidia.com/device/hardware/nvidia/soc/t210.git
+	branch = l4t/l4t-r32.7.1
+[submodule "hardware/nvidia/platform/t210/common"]
+	path = hardware/nvidia/platform/t210/common
+	url = https://nv-tegra.nvidia.com/device/hardware/nvidia/platform/t210/common.git
+	branch = l4t/l4t-r32.7.1
+[submodule "hardware/nvidia/platform/t210/porg"]
+	path = hardware/nvidia/platform/t210/porg
+	url = https://nv-tegra.nvidia.com/device/hardware/nvidia/platform/t210/porg.git
+	branch = l4t/l4t-r32.7.1
+[submodule "hardware/nvidia/platform/t210/batuu/kernel-dts"]
+	path = hardware/nvidia/platform/t210/batuu/kernel-dts
+	url = https://nv-tegra.nvidia.com/r/device/hardware/nvidia/platform/t210/batuu-dts
+	branch = l4t/l4t-r32.7.1
+[submodule "hardware/nvidia/soc/tegra"]
+	path = hardware/nvidia/soc/tegra
+	url = https://nv-tegra.nvidia.com/device/hardware/nvidia/soc/tegra.git
+	branch = l4t/l4t-r32.7.1
+[submodule "kernel/nvgpu"]
+	path = kernel/nvgpu
+	url = https://nv-tegra.nvidia.com/r/linux-nvgpu.git
+	branch = l4t/l4t-r32.7.1
+[submodule "kernel/nvidia"]
+	path = kernel/nvidia
+	url = https://nv-tegra.nvidia.com/r/linux-nvidia
+	branch = l4t/l4t-r32.7.1
+[submodule "kernel/kernel-4.9"]
+	path = kernel/kernel-4.9
+	url = https://github.com/BELABOX/linux-tegra-4.9.git
+	branch = l4t/l4t-r32.7.1-4.9
