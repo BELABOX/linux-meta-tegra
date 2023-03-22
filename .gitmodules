@@ -28,7 +28,7 @@
 	branch = l4t/l4t-r32.7.1
 [submodule "kernel/nvidia"]
 	path = kernel/nvidia
-	url = https://nv-tegra.nvidia.com/r/linux-nvidia
+	url = https://github.com/BELABOX/linux-nvidia.git
 	branch = l4t/l4t-r32.7.1
 [submodule "kernel/kernel-4.9"]
 	path = kernel/kernel-4.9
